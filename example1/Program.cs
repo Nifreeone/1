@@ -1,1 +1,3 @@
-﻿
+﻿Console.Clear();
+
+int xa=
